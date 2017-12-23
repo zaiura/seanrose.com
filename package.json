@@ -1,0 +1,23 @@
+{
+  "name": "seanmrose",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "web_server.js",
+  "scripts": {
+    "dev": "nodemon web_server.js api_server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0",
+    "cors": "*",
+    "express-handlebars": "*",
+    "": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.4",
+    "morgan": "*"
+  }
+}
