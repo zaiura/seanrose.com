@@ -22,7 +22,6 @@
     "uuid": "^3.0.1"
   },
   "devDependencies": {
-    "nodemon": "^1.12.4",
-    "morgan": "*"
+    "nodemon": "^1.12.4"
   }
 }
